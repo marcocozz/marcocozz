@@ -1,12 +1,12 @@
 # info
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" />  
   
 
-## Who am I ?  
+# Who am I ?  
 
 
-### <div align="center">I'm MarcoCozz, a full-time Data Engineer👨‍💻 working remotely since 2020 🚀</div>  
+# <div align="center">I'm MarcoCozz, a full-time Data Engineer👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on Shopfully 
@@ -73,8 +73,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
