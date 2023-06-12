@@ -1,22 +1,21 @@
-# info
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />  
+ 
+ # Who am I ?  
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWYzOTM4OWIyMWJlOTIxZWI0ZGZjMDRhZGYzYjYyYzIzNzhhN2I3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/6oAHcGRUgGRCfbAkdG/giphy.gif" align="center" style="width: 50%" />  
+
+<div align="left">I'm MarcoCozz, a full-time Data Engineer👨‍💻 working remotely since 2020.
+Coding my way through the digital realm. Above, you'll find a vibrant collection of my professional journey captured in screenshots, a visual testament to the countless virtual collaborations and the smiles exchanged during thousands of meetings with my amazing colleagues.
   
-
-# Who am I ?  
-
-
-<div align="left">I'm MarcoCozz, a full-time Data Engineer👨‍💻 working remotely since 2020 🚀</div>  
+  🚀</div>  
+  
   
 
 - 🔭 I’m currently working on Shopfully 
 (https://corporate.shopfully.com/it/)  
   
 
-- 🌱 I’m currently learning NodeJs, Python, AWS  
-  
-
-- ⚡ Fun fact: I don't use many spaces  
+- ⚡ Join me on this exciting adventure as we unravel the mysteries of data together! 🚀✨"
   
 
 <br/>  
@@ -63,14 +62,7 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=marcocozz&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br/>  
-
-  
-
-<br/>  
 
   
 
