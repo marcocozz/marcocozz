@@ -59,7 +59,16 @@ Coding my way through the digital realm. Above, you'll find a vibrant collection
 </div>  
   
 
+
+### My github stats
+<img src="https://komarev.com/ghpvc/?username=marcocozz&style=flat-square&color=blue" alt=""/>
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcocozz&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <br/>  
+
 
 
 
